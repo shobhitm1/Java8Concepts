@@ -13,5 +13,7 @@ public class lambdaConcept {
 		 //webpage w1 =(String value,int key)->System.out.println(value+" "+key);
 		// w1.header("Shobhit",22);
 		 w1.header("Shobhit");
+		 
 	}
 }
+

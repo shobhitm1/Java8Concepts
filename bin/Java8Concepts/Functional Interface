@@ -1,0 +1,23 @@
+Functional Interface is in JDK 1.8
+having only one abstract method
+Annotation Used:-@FunctionalInterface
+Static method and Default method are allowed in Functional Interface.
+UnaryOperator Interface-Apply Method
+BinaryOperator-Apply Method
+Function -Apply Method
+Predicate-boolean test
+Supplier-get Method
+COnsumer-accept method
+FUnctional programming is based on Lambda function
+anonymous function has no class ,no name
+Lambda Experssion -> "Arrow Operator"
+Lamda enables functional programming in java.`
+Functional Programming enables us to read readable and concise code.(Programming Paradigm)
+Functional Programming:-Mathematical Way of solving a problem.
+Java Lambda are first step for functional programming
+it provides implementation of lambda interface using Arrow operator.(->)
+Runnable,ActionListener,Comparable are expamples of Functional Interfaces.
+
+Lambda expression can have from zero to multiple parameters	
+Lambda expression is like an objectthat can be assigned to a variable
+Lambda Expression can have static,reference and local variables.
