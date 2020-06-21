@@ -13,7 +13,7 @@ public class PredicateInterfaceConcept {
 		//Represents a predicate (boolean-valued function) of one argument.
 		
 		Predicate<Integer> func =x->x>5;
-		ArrayList<Integer> aList = new ArrayList<Integer>();
+		ArrayList<Integer> aList = new ArrayList<Integer>(); 
 		aList.add(1);aList.add(2);	
 		aList.add(20);aList.add(7);aList.add(9);aList.add(0);aList.add(17);
 		
