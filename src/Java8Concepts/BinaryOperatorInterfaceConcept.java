@@ -26,6 +26,7 @@ public class BinaryOperatorInterfaceConcept {
 		BiFunction<Integer,Integer,Integer> func2=(x1,x2) -> x1+x2;
 		int ans= func.apply(12, 14);
 		System.out.println(ans);
+		//boolean b =StringUtils.isEmpty("");
 	}
 
 }

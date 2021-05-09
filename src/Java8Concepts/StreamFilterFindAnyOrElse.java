@@ -14,7 +14,7 @@ public class StreamFilterFindAnyOrElse {
 				new Customer("Angel",22),
 				new Customer("Sam",24)
 				);
-		//filter with 
+		//filter with did not find any the provide null
 		Customer customer = cust.stream().filter((x)->"John".equals(x.getName())).findAny().orElse(null);
 		System.out.println(customer.getAge()+" "+customer.getName());
 		System.out.println(customer);
